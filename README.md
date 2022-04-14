@@ -10,3 +10,4 @@ Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/P
 ///////////////////////////////
 For Elfs (Working on 04/01/2022)
 Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/Pet-Simulator-X-Dupe/main/Elfs.lua"))()```
+.
