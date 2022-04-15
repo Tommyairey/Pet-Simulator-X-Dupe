@@ -1,5 +1,5 @@
 # Pet-Simulator-X-Dupe
-# .Working on 04/11/2022
+# .Working on 04/15/2022
 
 A simple dupe script (Exclusives/Gems/Mythical).
 
@@ -8,6 +8,3 @@ A simple dupe script (Exclusives/Gems/Mythical).
 Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/Pet-Simulator-X-Dupe/main/Pet_SimX_Dupe_30.lua"))()```
 
 ///////////////////////////////
-For Elfs (Working on 04/01/2022)
-Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/Pet-Simulator-X-Dupe/main/Elfs.lua"))()```
-.
