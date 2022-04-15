@@ -1,5 +1,5 @@
 # Pet-Simulator-X-Dupe
-# .Working on 04/15/2022
+# Working on 04/15/2022
 
 A simple dupe script (Exclusives/Gems/Mythical).
 
