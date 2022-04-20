@@ -1,8 +1,6 @@
 # Pet-Simulator-X-Dupe
 # Working on 04/19/2022
 
-![image](https://user-images.githubusercontent.com/101152799/164120216-0f8d0b19-2aa7-4066-82d9-43f0204d332b.png)
-
 ![image](https://user-images.githubusercontent.com/101152799/164120198-54d15118-7e1f-42cc-acb0-41a4ff2488f0.png)
 
 A simple dupe script (Exclusives/Gems/Mythical).
