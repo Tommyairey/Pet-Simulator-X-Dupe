@@ -1,6 +1,8 @@
 # Pet-Simulator-X-Dupe
 # Working on 07/26/2022
 
+#Huge Hell Rock 100% ✅
+
 ![image](https://user-images.githubusercontent.com/101152799/164120198-54d15118-7e1f-42cc-acb0-41a4ff2488f0.png)
 
 A simple dupe script (Exclusives/Gems/Mythical).
@@ -11,6 +13,6 @@ Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/P
 
 /////////////////////////////
 
-.Huge Hell Rock ✅
+
 
 Working on Windows.
