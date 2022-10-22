@@ -2,6 +2,7 @@
 # Working on 10/22/2022
 
 Hardcore Mode 100% ✅
+Halloween Update 100% ✅
 
 ![image](https://user-images.githubusercontent.com/101152799/164120198-54d15118-7e1f-42cc-acb0-41a4ff2488f0.png)
 
